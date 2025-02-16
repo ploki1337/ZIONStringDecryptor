@@ -1,8 +1,6 @@
 # ZIONStringDecryptor
 A tool to decrypt strings that were encrypted by the Zion obfuscator.
 
-Example:
-
 Before:
 ![image](https://github.com/user-attachments/assets/9b6bc116-f95d-4855-ae55-3b23efd348c4)
 
