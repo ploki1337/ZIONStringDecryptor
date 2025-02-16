@@ -6,3 +6,8 @@ Before:
 
 After:
 ![image](https://github.com/user-attachments/assets/d8d70e00-1266-4cd5-a4ef-f0041f64af0d)
+
+
+# How to use?
+
+Just drag and drop your protected.exe on ZIONStringDecryptor.exe
